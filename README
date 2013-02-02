@@ -2,3 +2,4 @@ This is a README file for testing git.
 Add more text to get it out of staged.
 Modify the file to see how default git diff works
 Addsome more info to this file
+Add more text with commit reason
