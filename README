@@ -2,3 +2,5 @@ This is a README file for testing git.
 Add more text to get it out of staged.
 Modify the file to see how default git diff works
 add a change to see commit diff between local and remote
+
+more commits to check remote sync
