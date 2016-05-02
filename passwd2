@@ -32,3 +32,4 @@ saned:x:112:118::/home/saned:/bin/false
 hplip:x:113:7:HPLIP system user,,,:/var/run/hplip:/bin/false
 gdm:x:114:120:Gnome Display Manager:/var/lib/gdm:/bin/false
 mjsmard:x:1000:1000:mjs,,,:/home/mjsmard:/bin/bash
+Add another entry to passwd file
